@@ -1,3 +1,5 @@
+Course developed by John Smilga: https://youtu.be/bbkBuqC1rU4
+
 # Redux Toolkit
 
 #### React Course
